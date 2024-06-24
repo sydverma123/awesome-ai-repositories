@@ -1,5 +1,7 @@
-OpenDevin	https://github.com/OpenDevin/OpenDevin
+OpenDevin https://github.com/OpenDevin/OpenDevin
+
 Devika	https://github.com/stitionai/devika
+
 Plandex	https://github.com/plandex-ai/plandex
 NPI AI	https://github.com/npi-ai/npi
 SuperAGI	https://github.com/TransformerOptimus/SuperAGI
