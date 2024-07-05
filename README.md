@@ -1,9 +1,9 @@
 ### Data Pipeline
 
-| Name (site) | Description | Github |
-|------------|------------|------------|
-| [Unstructured.io](https://unstructured.io/) | Open-source components for pre-processing documents for usage with LLM apps | <a href=https://github.com/Unstructured-IO/unstructured><img src="https://img.shields.io/github/stars/Unstructured-IO/unstructured?style=social" width=90/></a> |
-| [Anyscale](https://www.anyscale.com/) | An AI compute platform that allows developers to scale data ingest, preprocessing, embedding, and inference computations using Ray | <a href=https://github.com/ray-project/ray><img src="https://img.shields.io/github/stars/ray-project/ray?style=social" width=90/></a> |
+| Name (site) | Github |
+|------------|------------|
+| [Unstructured.io](https://unstructured.io/) | <a href=https://github.com/Unstructured-IO/unstructured><img src="https://img.shields.io/github/stars/Unstructured-IO/unstructured?style=social" width=90/></a> |
+| [Anyscale](https://www.anyscale.com/) | <a href=https://github.com/ray-project/ray><img src="https://img.shields.io/github/stars/ray-project/ray?style=social" width=90/></a> |
 
 ### Structured Generation
 
