@@ -1,4 +1,4 @@
-Suggestions welcome through contributions
+Suggestions welcome through contributions :)
 
 ### AI Agent Framework
 
