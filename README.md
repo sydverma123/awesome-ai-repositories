@@ -40,6 +40,7 @@ Suggestions welcome through contributions :)
 | Name (site) | Github |
 |------------|------------|
 | [Ray](https://www.ray.io/) | <a href=https://github.com/ray-project/ray><img src="https://img.shields.io/github/stars/ray-project/ray?style=social" width=100/></a> |
+| [Keploy](https://keploy.io) | <a href=https://github.com/keploy/keploy><img src="https://img.shields.io/github/stars/keploy/keploy?style=social" width=100/></a> |
 | [higgsfield](https://higgsfield.ai/) | <a href=https://github.com/higgsfield-ai/higgsfield><img src="https://img.shields.io/github/stars/higgsfield-ai/higgsfield?style=social" width=100/></a> |
 | [Dstack](https://dstack.ai/) | <a href=https://github.com/dstackai/dstack><img src="https://img.shields.io/github/stars/dstackai/dstack?style=social" width=100/></a> |
 
