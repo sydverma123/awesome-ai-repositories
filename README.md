@@ -29,7 +29,7 @@ Suggestions welcome through contributions :)
 | Name (site) | Github |
 |------------|------------|
 | [Kong](https://konghq.com/products/kong-ai-gateway) | <a href=https://github.com/Kong/kong><img src="https://img.shields.io/github/stars/Kong/kong?style=social" width=100/></a> |
-| [Litellm/Berri](https://docs.litellm.ai/docs/) | <a href=https://github.com/BerriAI/litellm><img src="https://img.shields.io/github/stars/BerriAI/litellm?style=social" width=100/></a> |
+| [Litellm](https://docs.litellm.ai/docs/) | <a href=https://github.com/BerriAI/litellm><img src="https://img.shields.io/github/stars/BerriAI/litellm?style=social" width=100/></a> |
 | [Portkey](https://portkey.ai/) | <a href=https://github.com/Portkey-AI/gateway><img src="https://img.shields.io/github/stars/Portkey-AI/gateway?style=social" width=100/></a> |
 | [RouteLLM](https://lmsys.org/projects/) | <a href=https://github.com/lm-sys/RouteLLM><img src="https://img.shields.io/github/stars/lm-sys/RouteLLM?style=social" width=100/></a> |
 | [GPTRouter](https://gpt-router.writesonic.com/) | <a href=https://github.com/Writesonic/GPTRouter><img src="https://img.shields.io/github/stars/Writesonic/GPTRouter?style=social" width=100/></a> |
@@ -39,7 +39,7 @@ Suggestions welcome through contributions :)
 
 | Name (site) | Github |
 |------------|------------|
-| [Ray/Anyscale](https://www.ray.io/) | <a href=https://github.com/ray-project/ray><img src="https://img.shields.io/github/stars/ray-project/ray?style=social" width=100/></a> |
+| [Ray](https://www.ray.io/) | <a href=https://github.com/ray-project/ray><img src="https://img.shields.io/github/stars/ray-project/ray?style=social" width=100/></a> |
 | [higgsfield](https://higgsfield.ai/) | <a href=https://github.com/higgsfield-ai/higgsfield><img src="https://img.shields.io/github/stars/higgsfield-ai/higgsfield?style=social" width=100/></a> |
 | [Dstack](https://dstack.ai/) | <a href=https://github.com/dstackai/dstack><img src="https://img.shields.io/github/stars/dstackai/dstack?style=social" width=100/></a> |
 
@@ -49,7 +49,7 @@ Suggestions welcome through contributions :)
 | Name (site) | Github |
 |------------|------------|
 | [copilotkit](https://www.copilotkit.ai/) | <a href=https://github.com/CopilotKit/CopilotKit><img src="https://img.shields.io/github/stars/CopilotKit/CopilotKit?style=social" width=100/></a> |
-| [OpenCopilot/Open](https://opencopilot.so/) | <a href=https://github.com/openchatai/OpenCopilot><img src="https://img.shields.io/github/stars/openchatai/OpenCopilot?style=social" width=100/></a> |
+| [OpenCopilot](https://opencopilot.so/) | <a href=https://github.com/openchatai/OpenCopilot><img src="https://img.shields.io/github/stars/openchatai/OpenCopilot?style=social" width=100/></a> |
 
 
 ### Dataset Engineering
@@ -66,8 +66,7 @@ Suggestions welcome through contributions :)
 
 | Name (site) | Github |
 |------------|------------|
-| [Eval/OpenAI](https://openai.com/) | <a href=https://github.com/openai/evals><img src="https://img.shields.io/github/stars/openai/evals?style=social" width=100/></a> |
-| [lm-evaluation-harness](https://www.eleuther.ai/) | <a href=https://github.com/EleutherAI/lm-evaluation-harness><img src="https://img.shields.io/github/stars/EleutherAI/lm-evaluation-harness?style=social" width=100/></a> |
+| [Eval](https://openai.com/) | <a href=https://github.com/openai/evals><img src="https://img.shields.io/github/stars/openai/evals?style=social" width=100/></a> |
 | [RAGAS](https://docs.ragas.io/en/stable/) | <a href=https://github.com/explodinggradients/ragas><img src="https://img.shields.io/github/stars/explodinggradients/ragas?style=social" width=100/></a> |
 | [Giskard](https://www.giskard.ai/) | <a href=https://github.com/Giskard-AI/giskard><img src="https://img.shields.io/github/stars/Giskard-AI/giskard?style=social" width=100/></a> |
 | [promptfoo](https://www.promptfoo.dev/) | <a href=https://github.com/promptfoo/promptfoo><img src="https://img.shields.io/github/stars/promptfoo/promptfoo?style=social" width=100/></a> |
@@ -85,7 +84,7 @@ Suggestions welcome through contributions :)
 | [ludwig](https://ludwig.ai/latest/) | <a href=https://github.com/ludwig-ai/ludwig><img src="https://img.shields.io/github/stars/ludwig-ai/ludwig?style=social" width=100/></a> |
 | [NeMo/Nvidia](https://docs.nvidia.com/nemo-framework/user-guide/latest/overview.html) | <a href=https://github.com/NVIDIA/NeMo><img src="https://img.shields.io/github/stars/NVIDIA/NeMo?style=social" width=100/></a> |
 | [LMFlow](https://optimalscale.github.io/LMFlow/) | <a href=https://github.com/OptimalScale/LMFlow><img src="https://img.shields.io/github/stars/OptimalScale/LMFlow?style=social" width=100/></a> |
-| [litgpt/Lightning](https://optimalscale.github.io/LMFlow/) | <a href=https://github.com/Lightning-AI/litgpt><img src="https://img.shields.io/github/stars/Lightning-AI/litgpt?style=social" width=100/></a> |
+| [litgpt](https://optimalscale.github.io/LMFlow/) | <a href=https://github.com/Lightning-AI/litgpt><img src="https://img.shields.io/github/stars/Lightning-AI/litgpt?style=social" width=100/></a> |
 | [Axolotl](https://github.com/axolotl-ai-cloud/axolotl) | <a href=https://github.com/OpenAccess-AI-Collective/axolotl><img src="https://img.shields.io/github/stars/OpenAccess-AI-Collective/axolotl?style=social" width=100/></a> |
 | [xTuring](https://xturing.stochastic.ai/) | <a href=https://github.com/stochasticai/xTuring><img src="https://img.shields.io/github/stars/stochasticai/xTuring?style=social" width=100/></a> |
 
@@ -139,7 +138,7 @@ Suggestions welcome through contributions :)
 | Name (site) | Github |
 |------------|------------|
 | [vLLM](https://vllm.ai/) | <a href=https://github.com/vllm-project/vllm><img src="https://img.shields.io/github/stars/vllm-project/vllm?style=social" width=100/></a> |
-| [TensorRT-LLM/Nvidia](https://nvidia.github.io/TensorRT-LLM/) | <a href=https://github.com/NVIDIA/TensorRT-LLM><img src="https://img.shields.io/github/stars/NVIDIA/TensorRT-LLM?style=social" width=100/></a> |
+| [TensorRT-LLM](https://nvidia.github.io/TensorRT-LLM/) | <a href=https://github.com/NVIDIA/TensorRT-LLM><img src="https://img.shields.io/github/stars/NVIDIA/TensorRT-LLM?style=social" width=100/></a> |
 | [bentoml](https://bentoml.com/) | <a href=https://github.com/bentoml/bentoml><img src="https://img.shields.io/github/stars/bentoml/bentoml?style=social" width=100/></a> |
 | [lightllm](https://github.com/ModelTC/lightllm) | <a href=https://github.com/ModelTC/lightllm><img src="https://img.shields.io/github/stars/ModelTC/lightllm?style=social" width=100/></a> |
 | [openfoundry](https://www.openfoundry.ai/) | <a href=https://github.com/openfoundry-ai/model_manager><img src="https://img.shields.io/github/stars/openfoundry-ai/model_manager?style=social" width=100/></a> |
@@ -158,10 +157,10 @@ Suggestions welcome through contributions :)
 | Name (site) | Github |
 |------------|------------|
 | [Colossal AI](https://colossalai.org/) | <a href=https://github.com/hpcaitech/ColossalAI><img src="https://img.shields.io/github/stars/hpcaitech/ColossalAI?style=social" width=100/></a> |
-| [FastChat/lymsys](https://lmsys.org/projects/) | <a href=https://github.com/lm-sys/FastChat><img src="https://img.shields.io/github/stars/lm-sys/FastChat?style=social" width=100/></a> |
+| [FastChat](https://lmsys.org/projects/) | <a href=https://github.com/lm-sys/FastChat><img src="https://img.shields.io/github/stars/lm-sys/FastChat?style=social" width=100/></a> |
 | [pytorch-lightning](https://lightning.ai/) | <a href=https://github.com/Lightning-AI/pytorch-lightning><img src="https://img.shields.io/github/stars/Lightning-AI/pytorch-lightning?style=social" width=100/></a> |
 | [llm c](https://github.com/karpathy/llm.c) | <a href=https://github.com/karpathy/llm.c><img src="https://img.shields.io/github/stars/karpathy/llm.c?style=social" width=100/></a> |
-| [miniGPT/karpathy](https://github.com/karpathy/minGPT) | <a href=https://github.com/karpathy/minGPT><img src="https://img.shields.io/github/stars/karpathy/minGPT?style=social" width=100/></a> |
+| [miniGPT](https://github.com/karpathy/minGPT) | <a href=https://github.com/karpathy/minGPT><img src="https://img.shields.io/github/stars/karpathy/minGPT?style=social" width=100/></a> |
 
 
 ### Prompt Engineering
@@ -183,7 +182,7 @@ Suggestions welcome through contributions :)
 | [vanna](https://vanna.ai/) | <a href=https://github.com/vanna-ai/vanna><img src="https://img.shields.io/github/stars/vanna-ai/vanna?style=social" width=100/></a> |
 | [FlagEmbedding](https://github.com/FlagOpen/FlagEmbedding) | <a href=https://github.com/FlagOpen/FlagEmbedding><img src="https://img.shields.io/github/stars/FlagOpen/FlagEmbedding?style=social" width=100/></a> |
 | [llmware](https://llmware-ai.github.io/llmware/) | <a href=https://github.com/llmware-ai/llmware><img src="https://img.shields.io/github/stars/llmware-ai/llmware?style=social" width=100/></a> |
-| [llm-app/pathway](https://pathway.com/) | <a href=https://github.com/pathwaycom/llm-app><img src="https://img.shields.io/github/stars/pathwaycom/llm-app?style=social" width=100/></a> |
+| [llm-app](https://pathway.com/) | <a href=https://github.com/pathwaycom/llm-app><img src="https://img.shields.io/github/stars/pathwaycom/llm-app?style=social" width=100/></a> |
 | [Cognita](https://cognita.truefoundry.com/) | <a href=https://github.com/truefoundry/cognita><img src="https://img.shields.io/github/stars/truefoundry/cognita?style=social" width=100/></a> |
 | [casibase](https://casibase.org/) | <a href=https://github.com/casibase/casibase><img src="https://img.shields.io/github/stars/casibase/casibase?style=social" width=100/></a> |
 | [SciPhi](https://r2r-docs.sciphi.ai/introduction) | <a href=https://github.com/SciPhi-AI/R2R><img src="https://img.shields.io/github/stars/SciPhi-AI/R2R?style=social" width=100/></a> |
@@ -191,7 +190,7 @@ Suggestions welcome through contributions :)
 | [autollm](https://github.com/safevideo/autollm) | <a href=https://github.com/safevideo/autollm><img src="https://img.shields.io/github/stars/safevideo/autollm?style=social" width=100/></a> |
 | [canopy](https://www.pinecone.io/blog/canopy-rag-framework/) | <a href=https://github.com/pinecone-io/canopy><img src="https://img.shields.io/github/stars/pinecone-io/canopy?style=social" width=100/></a> |
 | [NeumAI](https://www.neum.ai/) | <a href=https://github.com/NeumTry/NeumAI><img src="https://img.shields.io/github/stars/NeumTry/NeumAI?style=social" width=100/></a> |
-| [WrenAI/Canner](https://www.getwren.ai/) | <a href=https://github.com/Canner/WrenAI><img src="https://img.shields.io/github/stars/Canner/WrenAI?style=social" width=100/></a> |
+| [WrenAI](https://www.getwren.ai/) | <a href=https://github.com/Canner/WrenAI><img src="https://img.shields.io/github/stars/Canner/WrenAI?style=social" width=100/></a> |
 | [ragna](https://ragna.chat/en/stable/) | <a href=https://github.com/Quansight/ragna><img src="https://img.shields.io/github/stars/Quansight/ragna?style=social" width=100/></a> |
 
 
