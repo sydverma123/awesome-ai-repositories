@@ -48,6 +48,7 @@ Suggestions welcome through contributions :)
 
 | Name (site) | Github |
 |------------|------------|
+| [Keploy](https://keploy.io) | <a href=https://github.com/keploy/keploy><img src="https://img.shields.io/github/stars/keploy/keploy?style=social" width=100/></a> |
 | [copilotkit](https://www.copilotkit.ai/) | <a href=https://github.com/CopilotKit/CopilotKit><img src="https://img.shields.io/github/stars/CopilotKit/CopilotKit?style=social" width=100/></a> |
 | [OpenCopilot](https://opencopilot.so/) | <a href=https://github.com/openchatai/OpenCopilot><img src="https://img.shields.io/github/stars/openchatai/OpenCopilot?style=social" width=100/></a> |
 
