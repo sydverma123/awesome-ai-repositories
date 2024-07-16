@@ -24,7 +24,7 @@ If you want to contribute to this list, then please make a Pull request
 - [Prompt Engineering](#prompt-engineering)
 - [RAG Framework](#rag-framework)
 - [Structured Extraction](#structured-extraction)
-- [Structured Generation](#structure-generation)
+- [Structured Generation](#structured-generation)
 - [Vector DB](#vector-db)
 - [Voice Agent](#voice-agent)
 
