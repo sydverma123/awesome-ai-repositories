@@ -7,7 +7,6 @@ If you want to contribute to this list, then please make a Pull request
 
 
 ## Contents
-- [LLM Agent Framework](#llm-agent-framework)
 - [AI Gateway](#ai-gateway)
 - [AI Workload Manager](#ai-workload-manager)
 - [Copilot Development](#copilot-development)
@@ -18,6 +17,7 @@ If you want to contribute to this list, then please make a Pull request
 - [Graph RAG](#graph-rag)
 - [Guardrails](#guardrails)
 - [Local Model Inference](#local-model-inference)
+- [LLM Agent Framework](#llm-agent-framework)
 - [Model Serving](#model-serving)
 - [Observability](#observability)
 - [Pre Training](#pre-training)
@@ -28,40 +28,6 @@ If you want to contribute to this list, then please make a Pull request
 - [Vector DB](#vector-db)
 - [Voice Agent](#voice-agent)
 
-
-
-
-## LLM Agent Framework
-
-| Name (site) | Github |
-|------------|------------|
-| [AutoGPT](https://agpt.co/) | <a href=https://github.com/Significant-Gravitas/AutoGPT><img src="https://img.shields.io/github/stars/Significant-Gravitas/AutoGPT?style=social" width=100/></a> |
-| [MetaGPT](https://www.deepwisdom.ai/) | <a href=https://github.com/geekan/MetaGPT><img src="https://img.shields.io/github/stars/geekan/MetaGPT?style=social" width=100/></a> |
-| [AgentGPT](https://www.reworkd.ai/) | <a href=https://github.com/reworkd/AgentGPT><img src="https://img.shields.io/github/stars/reworkd/AgentGPT?style=social" width=100/></a> |
-| [Autogen](https://microsoft.github.io/autogen/) | <a href=https://github.com/microsoft/autogen><img src="https://img.shields.io/github/stars/microsoft/autogen?style=social" width=100/></a> |
-| [BabyAGI](https://github.com/yoheinakajima/babyagi) | <a href=https://github.com/yoheinakajima/babyagi><img src="https://img.shields.io/github/stars/yoheinakajima/babyagi?style=social" width=100/></a> |
-| [CrewAI](https://www.crewai.com/) | <a href=https://github.com/joaomdmoura/crewAI><img src="https://img.shields.io/github/stars/joaomdmoura/crewAI?style=social" width=100/></a> |
-| [SuperAGI](https://superagi.com/) | <a href=https://github.com/TransformerOptimus/SuperAGI><img src="https://img.shields.io/github/stars/TransformerOptimus/SuperAGI?style=social" width=100/></a> |
-| [TaskingAI](https://www.tasking.ai/) | <a href=https://github.com/TaskingAI/TaskingAI><img src="https://img.shields.io/github/stars/TaskingAI/TaskingAI?style=social" width=100/></a> |
-| [LaVague](https://www.lavague.ai/) | <a href=https://github.com/lavague-ai/LaVague><img src="https://img.shields.io/github/stars/lavague-ai/LaVague?style=social" width=100/></a> |
-| [superagent](https://docs.superagent.sh/overview/overview/introduction) | <a href=https://github.com/superagent-ai/superagent><img src="https://img.shields.io/github/stars/superagent-ai/superagent?style=social" width=100/></a> |
-| [Rivet AI](https://rivet.ironcladapp.com/) | <a href=https://github.com/Ironclad/rivet><img src="https://img.shields.io/github/stars/Ironclad/rivet?style=social" width=100/></a> |
-| [AGiXT](https://josh-xt.github.io/AGiXT/) | <a href=https://github.com/Josh-XT/AGiXT><img src="https://img.shields.io/github/stars/Josh-XT/AGiXT?style=social" width=100/></a> |
-| [cheshirecat](https://cheshirecat.ai/) | <a href=https://github.com/cheshire-cat-ai/core><img src="https://img.shields.io/github/stars/cheshire-cat-ai/core?style=social" width=100/></a> |
-| [langroid](https://langroid.github.io/langroid/) | <a href=https://github.com/langroid/langroid><img src="https://img.shields.io/github/stars/langroid/langroid?style=social" width=100/></a> |
-| [Griptape](https://www.griptape.ai/) | <a href=https://github.com/griptape-ai/griptape><img src="https://img.shields.io/github/stars/griptape-ai/griptape?style=social" width=100/></a> |
-| [Mirascope](https://www.mirascope.io/) | <a href=https://github.com/Mirascope/mirascope><img src="https://img.shields.io/github/stars/Mirascope/mirascope?style=social" width=100/></a> |
-| [Julep](https://www.julep.ai/) | <a href=https://github.com/julep-ai/julep><img src="https://img.shields.io/github/stars/julep-ai/julep?style=social" width=100/></a> |
-| [ControlFlow](https://controlflow.ai/welcome) | <a href=https://github.com/PrefectHQ/ControlFlow><img src="https://img.shields.io/github/stars/PrefectHQ/ControlFlow?style=social" width=100/></a> |
-| [Dify](https://dify.ai/) | <a href=https://github.com/langgenius/dify><img src="https://img.shields.io/github/stars/langgenius/dify?style=social" width=100/></a> |
-| [Flowise](https://flowiseai.com/) | <a href=https://github.com/FlowiseAI/Flowise><img src="https://img.shields.io/github/stars/FlowiseAI/Flowise?style=social" width=100/></a> |
-| [langflow](https://www.langflow.org/) | <a href=https://github.com/langflow-ai/langflow><img src="https://img.shields.io/github/stars/langflow-ai/langflow?style=social" width=100/></a> |
-| [Haystack](https://haystack.deepset.ai/) | <a href=https://github.com/deepset-ai/haystack><img src="https://img.shields.io/github/stars/deepset-ai/haystack?style=social" width=100/></a> |
-| [MemGPT](https://memgpt.readme.io/docs/index) | <a href=https://github.com/cpacker/MemGPT><img src="https://img.shields.io/github/stars/cpacker/MemGPT?style=social" width=100/></a> |
-| [phidata](https://docs.phidata.com/introduction) | <a href=https://github.com/phidatahq/phidata><img src="https://img.shields.io/github/stars/phidatahq/phidata?style=social" width=100/></a> |
-| [PromptFlow](https://microsoft.github.io/promptflow/) | <a href=https://github.com/microsoft/promptflow><img src="https://img.shields.io/github/stars/microsoft/promptflow?style=social" width=100/></a> |
-| [chainlit](https://chainlit.io/) | <a href=https://github.com/Chainlit/chainlit><img src="https://img.shields.io/github/stars/Chainlit/chainlit?style=social" width=100/></a> |
-| [ragapp](https://github.com/ragapp/ragapp) | <a href=https://github.com/ragapp/ragapp><img src="https://img.shields.io/github/stars/ragapp/ragapp?style=social" width=100/></a> |
 
 
 ## AI Gateway
@@ -172,6 +138,40 @@ If you want to contribute to this list, then please make a Pull request
 | [LocalAI](https://localai.io/) | <a href=https://github.com/mudler/LocalAI><img src="https://img.shields.io/github/stars/mudler/LocalAI?style=social" width=100/></a> |
 | [jan](https://jan.ai/) | <a href=https://github.com/janhq/jan><img src="https://img.shields.io/github/stars/janhq/jan?style=social" width=100/></a> |
 | [dalai](https://cocktailpeanut.github.io/dalai/#/) | <a href=https://github.com/cocktailpeanut/dalai><img src="https://img.shields.io/github/stars/cocktailpeanut/dalai?style=social" width=100/></a> |
+
+
+## LLM Agent Framework
+
+| Name (site) | Github |
+|------------|------------|
+| [AutoGPT](https://agpt.co/) | <a href=https://github.com/Significant-Gravitas/AutoGPT><img src="https://img.shields.io/github/stars/Significant-Gravitas/AutoGPT?style=social" width=100/></a> |
+| [MetaGPT](https://www.deepwisdom.ai/) | <a href=https://github.com/geekan/MetaGPT><img src="https://img.shields.io/github/stars/geekan/MetaGPT?style=social" width=100/></a> |
+| [AgentGPT](https://www.reworkd.ai/) | <a href=https://github.com/reworkd/AgentGPT><img src="https://img.shields.io/github/stars/reworkd/AgentGPT?style=social" width=100/></a> |
+| [Autogen](https://microsoft.github.io/autogen/) | <a href=https://github.com/microsoft/autogen><img src="https://img.shields.io/github/stars/microsoft/autogen?style=social" width=100/></a> |
+| [BabyAGI](https://github.com/yoheinakajima/babyagi) | <a href=https://github.com/yoheinakajima/babyagi><img src="https://img.shields.io/github/stars/yoheinakajima/babyagi?style=social" width=100/></a> |
+| [CrewAI](https://www.crewai.com/) | <a href=https://github.com/joaomdmoura/crewAI><img src="https://img.shields.io/github/stars/joaomdmoura/crewAI?style=social" width=100/></a> |
+| [SuperAGI](https://superagi.com/) | <a href=https://github.com/TransformerOptimus/SuperAGI><img src="https://img.shields.io/github/stars/TransformerOptimus/SuperAGI?style=social" width=100/></a> |
+| [TaskingAI](https://www.tasking.ai/) | <a href=https://github.com/TaskingAI/TaskingAI><img src="https://img.shields.io/github/stars/TaskingAI/TaskingAI?style=social" width=100/></a> |
+| [LaVague](https://www.lavague.ai/) | <a href=https://github.com/lavague-ai/LaVague><img src="https://img.shields.io/github/stars/lavague-ai/LaVague?style=social" width=100/></a> |
+| [superagent](https://docs.superagent.sh/overview/overview/introduction) | <a href=https://github.com/superagent-ai/superagent><img src="https://img.shields.io/github/stars/superagent-ai/superagent?style=social" width=100/></a> |
+| [Rivet AI](https://rivet.ironcladapp.com/) | <a href=https://github.com/Ironclad/rivet><img src="https://img.shields.io/github/stars/Ironclad/rivet?style=social" width=100/></a> |
+| [AGiXT](https://josh-xt.github.io/AGiXT/) | <a href=https://github.com/Josh-XT/AGiXT><img src="https://img.shields.io/github/stars/Josh-XT/AGiXT?style=social" width=100/></a> |
+| [cheshirecat](https://cheshirecat.ai/) | <a href=https://github.com/cheshire-cat-ai/core><img src="https://img.shields.io/github/stars/cheshire-cat-ai/core?style=social" width=100/></a> |
+| [langroid](https://langroid.github.io/langroid/) | <a href=https://github.com/langroid/langroid><img src="https://img.shields.io/github/stars/langroid/langroid?style=social" width=100/></a> |
+| [Griptape](https://www.griptape.ai/) | <a href=https://github.com/griptape-ai/griptape><img src="https://img.shields.io/github/stars/griptape-ai/griptape?style=social" width=100/></a> |
+| [Mirascope](https://www.mirascope.io/) | <a href=https://github.com/Mirascope/mirascope><img src="https://img.shields.io/github/stars/Mirascope/mirascope?style=social" width=100/></a> |
+| [Julep](https://www.julep.ai/) | <a href=https://github.com/julep-ai/julep><img src="https://img.shields.io/github/stars/julep-ai/julep?style=social" width=100/></a> |
+| [ControlFlow](https://controlflow.ai/welcome) | <a href=https://github.com/PrefectHQ/ControlFlow><img src="https://img.shields.io/github/stars/PrefectHQ/ControlFlow?style=social" width=100/></a> |
+| [Dify](https://dify.ai/) | <a href=https://github.com/langgenius/dify><img src="https://img.shields.io/github/stars/langgenius/dify?style=social" width=100/></a> |
+| [Flowise](https://flowiseai.com/) | <a href=https://github.com/FlowiseAI/Flowise><img src="https://img.shields.io/github/stars/FlowiseAI/Flowise?style=social" width=100/></a> |
+| [langflow](https://www.langflow.org/) | <a href=https://github.com/langflow-ai/langflow><img src="https://img.shields.io/github/stars/langflow-ai/langflow?style=social" width=100/></a> |
+| [Haystack](https://haystack.deepset.ai/) | <a href=https://github.com/deepset-ai/haystack><img src="https://img.shields.io/github/stars/deepset-ai/haystack?style=social" width=100/></a> |
+| [MemGPT](https://memgpt.readme.io/docs/index) | <a href=https://github.com/cpacker/MemGPT><img src="https://img.shields.io/github/stars/cpacker/MemGPT?style=social" width=100/></a> |
+| [phidata](https://docs.phidata.com/introduction) | <a href=https://github.com/phidatahq/phidata><img src="https://img.shields.io/github/stars/phidatahq/phidata?style=social" width=100/></a> |
+| [PromptFlow](https://microsoft.github.io/promptflow/) | <a href=https://github.com/microsoft/promptflow><img src="https://img.shields.io/github/stars/microsoft/promptflow?style=social" width=100/></a> |
+| [chainlit](https://chainlit.io/) | <a href=https://github.com/Chainlit/chainlit><img src="https://img.shields.io/github/stars/Chainlit/chainlit?style=social" width=100/></a> |
+| [ragapp](https://github.com/ragapp/ragapp) | <a href=https://github.com/ragapp/ragapp><img src="https://img.shields.io/github/stars/ragapp/ragapp?style=social" width=100/></a> |
+
 
 ## Model Serving
 
