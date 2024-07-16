@@ -22,9 +22,18 @@ Suggestions welcome through contributions :)
 | [Mirascope](https://www.mirascope.io/) | <a href=https://github.com/Mirascope/mirascope><img src="https://img.shields.io/github/stars/Mirascope/mirascope?style=social" width=100/></a> |
 | [Julep](https://www.julep.ai/) | <a href=https://github.com/julep-ai/julep><img src="https://img.shields.io/github/stars/julep-ai/julep?style=social" width=100/></a> |
 | [ControlFlow](https://controlflow.ai/welcome) | <a href=https://github.com/PrefectHQ/ControlFlow><img src="https://img.shields.io/github/stars/PrefectHQ/ControlFlow?style=social" width=100/></a> |
+| [Dify](https://dify.ai/) | <a href=https://github.com/langgenius/dify><img src="https://img.shields.io/github/stars/langgenius/dify?style=social" width=100/></a> |
+| [Flowise](https://flowiseai.com/) | <a href=https://github.com/FlowiseAI/Flowise><img src="https://img.shields.io/github/stars/FlowiseAI/Flowise?style=social" width=100/></a> |
+| [langflow](https://www.langflow.org/) | <a href=https://github.com/langflow-ai/langflow><img src="https://img.shields.io/github/stars/langflow-ai/langflow?style=social" width=100/></a> |
+| [Haystack](https://haystack.deepset.ai/) | <a href=https://github.com/deepset-ai/haystack><img src="https://img.shields.io/github/stars/deepset-ai/haystack?style=social" width=100/></a> |
+| [MemGPT](https://memgpt.readme.io/docs/index) | <a href=https://github.com/cpacker/MemGPT><img src="https://img.shields.io/github/stars/cpacker/MemGPT?style=social" width=100/></a> |
+| [phidata](https://docs.phidata.com/introduction) | <a href=https://github.com/phidatahq/phidata><img src="https://img.shields.io/github/stars/phidatahq/phidata?style=social" width=100/></a> |
+| [PromptFlow](https://microsoft.github.io/promptflow/) | <a href=https://github.com/microsoft/promptflow><img src="https://img.shields.io/github/stars/microsoft/promptflow?style=social" width=100/></a> |
+| [chainlit](https://chainlit.io/) | <a href=https://github.com/Chainlit/chainlit><img src="https://img.shields.io/github/stars/Chainlit/chainlit?style=social" width=100/></a> |
+| [ragapp](https://github.com/ragapp/ragapp) | <a href=https://github.com/ragapp/ragapp><img src="https://img.shields.io/github/stars/ragapp/ragapp?style=social" width=100/></a> |
 
 
-### AI Gateway
+## AI Gateway
 
 | Name (site) | Github |
 |------------|------------|
@@ -35,7 +44,7 @@ Suggestions welcome through contributions :)
 | [GPTRouter](https://gpt-router.writesonic.com/) | <a href=https://github.com/Writesonic/GPTRouter><img src="https://img.shields.io/github/stars/Writesonic/GPTRouter?style=social" width=100/></a> |
 | [missing studio](https://www.missing.studio/) | <a href=https://github.com/missingstudio/gateway><img src="https://img.shields.io/github/stars/missingstudio/gateway?style=social" width=100/></a> |
 
-### AI Workload Manager
+## AI Workload Manager
 
 | Name (site) | Github |
 |------------|------------|
@@ -44,7 +53,7 @@ Suggestions welcome through contributions :)
 | [Dstack](https://dstack.ai/) | <a href=https://github.com/dstackai/dstack><img src="https://img.shields.io/github/stars/dstackai/dstack?style=social" width=100/></a> |
 
 
-### Copilot Development
+## Copilot Development
 
 | Name (site) | Github |
 |------------|------------|
@@ -52,7 +61,7 @@ Suggestions welcome through contributions :)
 | [OpenCopilot](https://opencopilot.so/) | <a href=https://github.com/openchatai/OpenCopilot><img src="https://img.shields.io/github/stars/openchatai/OpenCopilot?style=social" width=100/></a> |
 
 
-### Dataset Engineering
+## Dataset Engineering
 
 | Name (site) | Github |
 |------------|------------|
@@ -62,7 +71,7 @@ Suggestions welcome through contributions :)
 | [Lilac](https://www.lilacml.com/) | <a href=https://github.com/lilacai/lilac><img src="https://img.shields.io/github/stars/lilacai/lilac?style=social" width=100/></a> |
 
 
-### Evaluation
+## Evaluation
 
 | Name (site) | Github |
 |------------|------------|
@@ -76,7 +85,7 @@ Suggestions welcome through contributions :)
 | [tonic-validate](https://docs.tonic.ai/validate) | <a href=https://github.com/TonicAI/tonic_validate><img src="https://img.shields.io/github/stars/TonicAI/tonic_validate?style=social" width=100/></a> |
 
 
-### Fine Tuning
+## Fine Tuning
 
 | Name (site) | Github |
 |------------|------------|
@@ -89,7 +98,7 @@ Suggestions welcome through contributions :)
 | [xTuring](https://xturing.stochastic.ai/) | <a href=https://github.com/stochasticai/xTuring><img src="https://img.shields.io/github/stars/stochasticai/xTuring?style=social" width=100/></a> |
 
 
-### Function Calling
+## Function Calling
 
 | Name (site) | Github |
 |------------|------------|
@@ -100,7 +109,7 @@ Suggestions welcome through contributions :)
 | [Composio](https://docs.composio.dev/introduction/intro/overview) | <a href=https://github.com/ComposioDev/composio><img src="https://img.shields.io/github/stars/ComposioDev/composio?style=social" width=100/></a> |
 
 
-### Graph RAG
+## Graph RAG
 
 | Name (site) | Github |
 |------------|------------|
@@ -111,7 +120,7 @@ Suggestions welcome through contributions :)
 | [tidb](https://tidb.ai/) | <a href=https://github.com/pingcap/tidb.ai><img src="https://img.shields.io/github/stars/pingcap/tidb.ai?style=social" width=100/></a> |
 
 
-### Guardrails
+## Guardrails
 
 | Name (site) | Github |
 |------------|------------|
@@ -119,7 +128,7 @@ Suggestions welcome through contributions :)
 | [Guardrails](https://www.guardrailsai.com/) | <a href=https://github.com/guardrails-ai/guardrails><img src="https://img.shields.io/github/stars/guardrails-ai/guardrails?style=social" width=100/></a> |
 
 
-### Model Inference - Local
+## Model Inference - Local
 
 | Name (site) | Github |
 |------------|------------|
@@ -133,7 +142,7 @@ Suggestions welcome through contributions :)
 | [jan](https://jan.ai/) | <a href=https://github.com/janhq/jan><img src="https://img.shields.io/github/stars/janhq/jan?style=social" width=100/></a> |
 | [dalai](https://cocktailpeanut.github.io/dalai/#/) | <a href=https://github.com/cocktailpeanut/dalai><img src="https://img.shields.io/github/stars/cocktailpeanut/dalai?style=social" width=100/></a> |
 
-### Model Serving/Inferencing
+## Model Serving/Inferencing
 
 | Name (site) | Github |
 |------------|------------|
@@ -144,7 +153,7 @@ Suggestions welcome through contributions :)
 | [openfoundry](https://www.openfoundry.ai/) | <a href=https://github.com/openfoundry-ai/model_manager><img src="https://img.shields.io/github/stars/openfoundry-ai/model_manager?style=social" width=100/></a> |
 
 
-### Observability
+## Observability
 
 | Name (site) | Github |
 |------------|------------|
@@ -153,7 +162,7 @@ Suggestions welcome through contributions :)
 | [Langfuse](https://langfuse.com/) | <a href=https://github.com/langfuse/langfuse><img src="https://img.shields.io/github/stars/langfuse/langfuse?style=social" width=100/></a> |
 
 
-### Pre-training
+## Pre-training
 
 | Name (site) | Github |
 |------------|------------|
@@ -164,7 +173,7 @@ Suggestions welcome through contributions :)
 | [miniGPT](https://github.com/karpathy/minGPT) | <a href=https://github.com/karpathy/minGPT><img src="https://img.shields.io/github/stars/karpathy/minGPT?style=social" width=100/></a> |
 
 
-### Prompt Engineering
+## Prompt Engineering
 
 | Name (site) | Github |
 |------------|------------|
@@ -172,7 +181,7 @@ Suggestions welcome through contributions :)
 | [Langfuse](https://langfuse.com/) | <a href=https://github.com/langfuse/langfuse><img src="https://img.shields.io/github/stars/langfuse/langfuse?style=social" width=100/></a> |
 
 
-### RAG Framework
+## RAG Framework
 
 | Name (site) | Github |
 |------------|------------|
@@ -193,12 +202,6 @@ Suggestions welcome through contributions :)
 | [NeumAI](https://www.neum.ai/) | <a href=https://github.com/NeumTry/NeumAI><img src="https://img.shields.io/github/stars/NeumTry/NeumAI?style=social" width=100/></a> |
 | [WrenAI](https://www.getwren.ai/) | <a href=https://github.com/Canner/WrenAI><img src="https://img.shields.io/github/stars/Canner/WrenAI?style=social" width=100/></a> |
 | [ragna](https://ragna.chat/en/stable/) | <a href=https://github.com/Quansight/ragna><img src="https://img.shields.io/github/stars/Quansight/ragna?style=social" width=100/></a> |
-
-
-### RAG + Agent Framework
-
-| Name (site) | Github |
-|------------|------------|
 | [Dify](https://dify.ai/) | <a href=https://github.com/langgenius/dify><img src="https://img.shields.io/github/stars/langgenius/dify?style=social" width=100/></a> |
 | [Flowise](https://flowiseai.com/) | <a href=https://github.com/FlowiseAI/Flowise><img src="https://img.shields.io/github/stars/FlowiseAI/Flowise?style=social" width=100/></a> |
 | [langflow](https://www.langflow.org/) | <a href=https://github.com/langflow-ai/langflow><img src="https://img.shields.io/github/stars/langflow-ai/langflow?style=social" width=100/></a> |
@@ -210,7 +213,7 @@ Suggestions welcome through contributions :)
 | [ragapp](https://github.com/ragapp/ragapp) | <a href=https://github.com/ragapp/ragapp><img src="https://img.shields.io/github/stars/ragapp/ragapp?style=social" width=100/></a> |
 
 
-### Structured Extraction
+## Structured Extraction
 
 | Name (site) | Github |
 |------------|------------|
@@ -219,7 +222,7 @@ Suggestions welcome through contributions :)
 | [indexify](https://getindexify.ai/) | <a href=https://github.com/tensorlakeai/indexify><img src="https://img.shields.io/github/stars/tensorlakeai/indexify?style=social" width=100/></a> |
 
 
-### Structured Generation
+## Structured Generation
 
 | Name (site) | Github |
 |------------|------------|
@@ -230,7 +233,7 @@ Suggestions welcome through contributions :)
 | [sglang](https://github.com/sgl-project/sglang) | <a href=https://github.com/sgl-project/sglang><img src="https://img.shields.io/github/stars/sgl-project/sglang?style=social" width=100/></a> |
 
 
-### Vector DB
+## Vector DB
 
 | Name (site) | Github |
 |------------|------------|
@@ -247,7 +250,7 @@ Suggestions welcome through contributions :)
 | [oasysdb](https://docs.oasysdb.com/) | <a href=https://github.com/oasysai/oasysdb><img src="https://img.shields.io/github/stars/oasysai/oasysdb?style=social" width=100/></a> |
 
 
-### Voice Agent
+## Voice Agent
 
 | Name (site) | Github |
 |------------|------------|
