@@ -4,8 +4,31 @@ A curated list of resources, tools, and utilities for AI Engineers
 
 If you want to contribute to this list, then please make a Pull request
 
+
+
 ## Contents
 - [LLM Agent Framework](#llm-agent-framework)
+- [AI Gateway](#ai-gateway)
+- [AI Workload Manager](#ai-workload-manager)
+- [Copilot Development](#copilot-development)
+- [Dataset Engineering](#dataset-engineering)
+- [Evaluation](#evaluation)
+- [Fine Tuning](#fine-tuning)
+- [Function Calling](#function-calling)
+- [Graph RAG](#graph-rag)
+- [Guardrails](#guardrails)
+- [Local Model Inference](#local-model-inference)
+- [Model Serving](#model-serving)
+- [Observability](#observability)
+- [Pre Training](#pre-training)
+- [Prompt Engineering](#prompt-engineering)
+- [RAG Framework](#rag-framework)
+- [Structured Extraction](#structured-extraction)
+- [Structured Generation](#structure-generation)
+- [Vector DB](#vector-db)
+- [Voice Agent](#voice-agent)
+
+
 
 
 ## LLM Agent Framework
@@ -136,7 +159,7 @@ If you want to contribute to this list, then please make a Pull request
 | [Guardrails](https://www.guardrailsai.com/) | <a href=https://github.com/guardrails-ai/guardrails><img src="https://img.shields.io/github/stars/guardrails-ai/guardrails?style=social" width=100/></a> |
 
 
-## Model Inference - Local
+## Local Model Inference
 
 | Name (site) | Github |
 |------------|------------|
@@ -150,7 +173,7 @@ If you want to contribute to this list, then please make a Pull request
 | [jan](https://jan.ai/) | <a href=https://github.com/janhq/jan><img src="https://img.shields.io/github/stars/janhq/jan?style=social" width=100/></a> |
 | [dalai](https://cocktailpeanut.github.io/dalai/#/) | <a href=https://github.com/cocktailpeanut/dalai><img src="https://img.shields.io/github/stars/cocktailpeanut/dalai?style=social" width=100/></a> |
 
-## Model Serving/Inferencing
+## Model Serving
 
 | Name (site) | Github |
 |------------|------------|
@@ -170,7 +193,7 @@ If you want to contribute to this list, then please make a Pull request
 | [Langfuse](https://langfuse.com/) | <a href=https://github.com/langfuse/langfuse><img src="https://img.shields.io/github/stars/langfuse/langfuse?style=social" width=100/></a> |
 
 
-## Pre-training
+## Pre Training
 
 | Name (site) | Github |
 |------------|------------|
