@@ -183,6 +183,7 @@ If you want to contribute to this list, then please make a Pull request
 | [lightllm](https://github.com/ModelTC/lightllm) | <a href=https://github.com/ModelTC/lightllm><img src="https://img.shields.io/github/stars/ModelTC/lightllm?style=social" width=100/></a> |
 | [openfoundry](https://www.openfoundry.ai/) | <a href=https://github.com/openfoundry-ai/model_manager><img src="https://img.shields.io/github/stars/openfoundry-ai/model_manager?style=social" width=100/></a> |
 | [LitServe](https://lightning.ai/docs/litserve/home) | <a href=https://github.com/Lightning-AI/LitServe><img src="https://img.shields.io/github/stars/lightning-ai/litserve?style=social" width=100/></a> |
+| [truss](https://truss.baseten.co/) | <a href=https://github.com/basetenlabs/truss><img src="https://img.shields.io/github/stars/basetenlabs/truss?style=social" width=100/></a> |
 
 
 ## Observability
