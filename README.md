@@ -192,6 +192,7 @@ If you want to contribute to this list, then please make a Pull request
 | [pezzo](https://pezzo.ai/) | <a href=https://github.com/pezzolabs/pezzo><img src="https://img.shields.io/github/stars/pezzolabs/pezzo?style=social" width=100/></a> |
 | [helicone](https://www.helicone.ai/) | <a href=https://github.com/Helicone/helicone><img src="https://img.shields.io/github/stars/Helicone/helicone?style=social" width=100/></a> |
 | [Langfuse](https://langfuse.com/) | <a href=https://github.com/langfuse/langfuse><img src="https://img.shields.io/github/stars/langfuse/langfuse?style=social" width=100/></a> |
+| [langtrace](https://www.langtrace.ai/) | <a href=https://github.com/Scale3-Labs/langtrace><img src="https://img.shields.io/github/stars/Scale3-Labs/langtrace?style=social" width=100/></a> |
 
 
 ## Pre Training
