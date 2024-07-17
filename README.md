@@ -283,6 +283,7 @@ If you want to contribute to this list, then please make a Pull request
 | [lancedb](https://lancedb.com/) | <a href=https://github.com/lancedb/lancedb><img src="https://img.shields.io/github/stars/lancedb/lancedb?style=social" width=100/></a> |
 | [nucliaDB](https://docs.nuclia.dev/docs/) | <a href=https://github.com/nuclia/nucliadb><img src="https://img.shields.io/github/stars/nuclia/nucliadb?style=social" width=100/></a> |
 | [oasysdb](https://docs.oasysdb.com/) | <a href=https://github.com/oasysai/oasysdb><img src="https://img.shields.io/github/stars/oasysai/oasysdb?style=social" width=100/></a> |
+| [lantern](https://lantern.dev/) | <a href=https://github.com/lanterndata/lantern><img src="https://img.shields.io/github/stars/lanterndata/lantern?style=social" width=100/></a> |
 
 
 ## Voice Agent
