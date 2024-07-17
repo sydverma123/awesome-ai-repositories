@@ -255,6 +255,7 @@ If you want to contribute to this list, then please make a Pull request
 | [omniparse](https://docs.cognitivelab.in/) | <a href=https://github.com/adithya-s-k/omniparse><img src="https://img.shields.io/github/stars/adithya-s-k/omniparse?style=social" width=100/></a> |
 | [unstract](https://unstract.com/) | <a href=https://github.com/Zipstack/unstract><img src="https://img.shields.io/github/stars/Zipstack/unstract?style=social" width=100/></a> |
 | [indexify](https://getindexify.ai/) | <a href=https://github.com/tensorlakeai/indexify><img src="https://img.shields.io/github/stars/tensorlakeai/indexify?style=social" width=100/></a> |
+| [firecrawl](https://www.firecrawl.dev/) | <a href=https://github.com/mendableai/firecrawl><img src="https://img.shields.io/github/stars/mendableai/firecrawl?style=social" width=100/></a> |
 
 
 ## Structured Generation
