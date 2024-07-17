@@ -182,6 +182,7 @@ If you want to contribute to this list, then please make a Pull request
 | [bentoml](https://bentoml.com/) | <a href=https://github.com/bentoml/bentoml><img src="https://img.shields.io/github/stars/bentoml/bentoml?style=social" width=100/></a> |
 | [lightllm](https://github.com/ModelTC/lightllm) | <a href=https://github.com/ModelTC/lightllm><img src="https://img.shields.io/github/stars/ModelTC/lightllm?style=social" width=100/></a> |
 | [openfoundry](https://www.openfoundry.ai/) | <a href=https://github.com/openfoundry-ai/model_manager><img src="https://img.shields.io/github/stars/openfoundry-ai/model_manager?style=social" width=100/></a> |
+| [litserve](https://lightning.ai/docs/litserve) | <a href=https://github.com/Lightning-AI/LitServe><img src="https://img.shields.io/github/stars/Lightning-AI/LitServe?style=social" width=100/></a> |
 
 
 ## Observability
