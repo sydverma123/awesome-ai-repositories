@@ -81,6 +81,8 @@ If you want to contribute to this list, please make a Pull request
 | [uptrain](https://uptrain.ai/) | <a href=https://github.com/uptrain-ai/uptrain><img src="https://img.shields.io/github/stars/uptrain-ai/uptrain?style=social" width=100/></a> |
 | [trulens](https://www.trulens.org/) | <a href=https://github.com/truera/trulens><img src="https://img.shields.io/github/stars/truera/trulens?style=social" width=100/></a> |
 | [tonic-validate](https://docs.tonic.ai/validate) | <a href=https://github.com/TonicAI/tonic_validate><img src="https://img.shields.io/github/stars/TonicAI/tonic_validate?style=social" width=100/></a> |
+| [EvalKit](https://docs.evalkit.ai) | <a href=https://github.com/evalkit/evalkit><img src="https://img.shields.io/github/stars/evalkit/evalkit?style=social" width=100/></a> |
+| [jest-ai](https://github.com/codeably-io/jest-ai) | <a href=https://github.com/codeably-io/jest-ai><img src="https://img.shields.io/github/stars/codeably-io/jest-ai?style=social" width=100/></a> |
 
 
 ## Fine Tuning
