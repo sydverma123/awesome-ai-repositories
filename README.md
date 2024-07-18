@@ -81,6 +81,7 @@ If you want to contribute to this list, please make a Pull request
 | [uptrain](https://uptrain.ai/) | <a href=https://github.com/uptrain-ai/uptrain><img src="https://img.shields.io/github/stars/uptrain-ai/uptrain?style=social" width=100/></a> |
 | [trulens](https://www.trulens.org/) | <a href=https://github.com/truera/trulens><img src="https://img.shields.io/github/stars/truera/trulens?style=social" width=100/></a> |
 | [tonic-validate](https://docs.tonic.ai/validate) | <a href=https://github.com/TonicAI/tonic_validate><img src="https://img.shields.io/github/stars/TonicAI/tonic_validate?style=social" width=100/></a> |
+| [LangEvals](https://github.com/langwatch/langevals) | <a href=https://github.com/langwatch/langevals><img src="https://img.shields.io/github/stars/langwatch/langevals?style=social" width=100/></a> |
 
 
 ## Fine Tuning
@@ -209,6 +210,7 @@ If you want to contribute to this list, please make a Pull request
 | [pytorch-lightning](https://lightning.ai/) | <a href=https://github.com/Lightning-AI/pytorch-lightning><img src="https://img.shields.io/github/stars/Lightning-AI/pytorch-lightning?style=social" width=100/></a> |
 | [llm c](https://github.com/karpathy/llm.c) | <a href=https://github.com/karpathy/llm.c><img src="https://img.shields.io/github/stars/karpathy/llm.c?style=social" width=100/></a> |
 | [miniGPT](https://github.com/karpathy/minGPT) | <a href=https://github.com/karpathy/minGPT><img src="https://img.shields.io/github/stars/karpathy/minGPT?style=social" width=100/></a> |
+| [LangWatch](https://github.com/langwatch/langwatch) | <a href=https://github.com/langwatch/langwatch><img src="https://img.shields.io/github/stars/langwatch/langwatch?style=social" width=100/></a> |
 
 
 ## Prompt Engineering
