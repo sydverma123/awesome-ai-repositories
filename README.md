@@ -256,6 +256,13 @@ If you want to contribute to this list, please make a Pull request
 | [hamilton](https://github.com/dagworks-inc/hamilton) | <a href=https://github.com/dagworks-inc/hamilton><img src="https://img.shields.io/github/stars/dagworks-inc/hamilton?style=social" width=100/></a> |
 
 
+## Security
+
+| Name (site) | Github |
+|------------|------------|
+| [Armur](https://armur.ai/) | <a href=https://github.com/Armur-Ai/Auto-Pentest-GPT-AI><img src="https://img.shields.io/github/stars/Armur-Ai/Auto-Pentest-GPT-AI?style=social" width=100/></a> |
+
+
 ## Structured Extraction
 
 | Name (site) | Github |
