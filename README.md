@@ -172,6 +172,7 @@ If you want to contribute to this list, please make a Pull request
 | [PromptFlow](https://microsoft.github.io/promptflow/) | <a href=https://github.com/microsoft/promptflow><img src="https://img.shields.io/github/stars/microsoft/promptflow?style=social" width=100/></a> |
 | [chainlit](https://chainlit.io/) | <a href=https://github.com/Chainlit/chainlit><img src="https://img.shields.io/github/stars/Chainlit/chainlit?style=social" width=100/></a> |
 | [ragapp](https://github.com/ragapp/ragapp) | <a href=https://github.com/ragapp/ragapp><img src="https://img.shields.io/github/stars/ragapp/ragapp?style=social" width=100/></a> |
+| [burr](https://github.com/dagworks-inc/burr) | <a href=https://github.com/dagworks-inc/burr><img src="https://img.shields.io/github/stars/dagworks-inc/burr?style=social" width=100/></a> |
 
 
 ## Model Serving
@@ -199,6 +200,8 @@ If you want to contribute to this list, please make a Pull request
 | [traceloop](https://www.traceloop.com/) | <a href=https://github.com/traceloop/openllmetry><img src="https://img.shields.io/github/stars/traceloop/openllmetry?style=social" width=100/></a> |
 | [trulens](https://www.trulens.org/) | <a href=https://github.com/truera/trulens><img src="https://img.shields.io/github/stars/truera/trulens?style=social" width=100/></a> |
 | [log10](https://www.log10.io/) | <a href=https://github.com/log10-io/log10><img src="https://img.shields.io/github/stars/log10-io/log10?style=social" width=100/></a> |
+| [burr](https://github.com/dagworks-inc/burr) | <a href=https://github.com/dagworks-inc/burr><img src="https://img.shields.io/github/stars/dagworks-inc/burr?style=social" width=100/></a> |
+| [hamilton](https://github.com/dagworks-inc/hamilton) | <a href=https://github.com/dagworks-inc/hamilton><img src="https://img.shields.io/github/stars/dagworks-inc/hamilton?style=social" width=100/></a> |
 
 ## Pre Training
 
@@ -217,6 +220,7 @@ If you want to contribute to this list, please make a Pull request
 |------------|------------|
 | [DSPy](https://dspy-docs.vercel.app/) | <a href=https://github.com/stanfordnlp/dspy><img src="https://img.shields.io/github/stars/stanfordnlp/dspy?style=social" width=100/></a> |
 | [Langfuse](https://langfuse.com/) | <a href=https://github.com/langfuse/langfuse><img src="https://img.shields.io/github/stars/langfuse/langfuse?style=social" width=100/></a> |
+| [hamilton](https://github.com/dagworks-inc/hamilton) | <a href=https://github.com/dagworks-inc/hamilton><img src="https://img.shields.io/github/stars/dagworks-inc/hamilton?style=social" width=100/></a> |
 
 
 ## RAG Framework
@@ -249,6 +253,7 @@ If you want to contribute to this list, please make a Pull request
 | [PromptFlow](https://microsoft.github.io/promptflow/) | <a href=https://github.com/microsoft/promptflow><img src="https://img.shields.io/github/stars/microsoft/promptflow?style=social" width=100/></a> |
 | [chainlit](https://chainlit.io/) | <a href=https://github.com/Chainlit/chainlit><img src="https://img.shields.io/github/stars/Chainlit/chainlit?style=social" width=100/></a> |
 | [ragapp](https://github.com/ragapp/ragapp) | <a href=https://github.com/ragapp/ragapp><img src="https://img.shields.io/github/stars/ragapp/ragapp?style=social" width=100/></a> |
+| [hamilton](https://github.com/dagworks-inc/hamilton) | <a href=https://github.com/dagworks-inc/hamilton><img src="https://img.shields.io/github/stars/dagworks-inc/hamilton?style=social" width=100/></a> |
 
 
 ## Structured Extraction
