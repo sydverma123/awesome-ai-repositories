@@ -1,8 +1,8 @@
 ## AI Infra Repositories
 
-A curated list of resources, tools, and utilities for AI Engineers
+A curated list of open source repositories AI Engineers
 
-If you want to contribute to this list, then please make a Pull request
+If you want to contribute to this list, please make a Pull request
 
 
 
