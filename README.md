@@ -198,7 +198,7 @@ If you want to contribute to this list, please make a Pull request
 | [langtrace](https://www.langtrace.ai/) | <a href=https://github.com/Scale3-Labs/langtrace><img src="https://img.shields.io/github/stars/Scale3-Labs/langtrace?style=social" width=100/></a> |
 | [traceloop](https://www.traceloop.com/) | <a href=https://github.com/traceloop/openllmetry><img src="https://img.shields.io/github/stars/traceloop/openllmetry?style=social" width=100/></a> |
 | [trulens](https://www.trulens.org/) | <a href=https://github.com/truera/trulens><img src="https://img.shields.io/github/stars/truera/trulens?style=social" width=100/></a> |
-
+| [log10](https://www.log10.io/) | <a href=https://github.com/log10-io/log10><img src="https://img.shields.io/github/stars/log10-io/log10?style=social" width=100/></a> |
 
 ## Pre Training
 
