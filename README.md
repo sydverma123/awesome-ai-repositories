@@ -79,7 +79,7 @@ If you want to contribute to this list, then please make a Pull request
 | [promptfoo](https://www.promptfoo.dev/) | <a href=https://github.com/promptfoo/promptfoo><img src="https://img.shields.io/github/stars/promptfoo/promptfoo?style=social" width=100/></a> |
 | [arize ai](https://phoenix.arize.com/) | <a href=https://github.com/Arize-ai/phoenix><img src="https://img.shields.io/github/stars/Arize-ai/phoenix?style=social" width=100/></a> |
 | [uptrain](https://uptrain.ai/) | <a href=https://github.com/uptrain-ai/uptrain><img src="https://img.shields.io/github/stars/uptrain-ai/uptrain?style=social" width=100/></a> |
-| [truera](https://www.trulens.org/) | <a href=https://github.com/truera/trulens><img src="https://img.shields.io/github/stars/truera/trulens?style=social" width=100/></a> |
+| [trulens](https://www.trulens.org/) | <a href=https://github.com/truera/trulens><img src="https://img.shields.io/github/stars/truera/trulens?style=social" width=100/></a> |
 | [tonic-validate](https://docs.tonic.ai/validate) | <a href=https://github.com/TonicAI/tonic_validate><img src="https://img.shields.io/github/stars/TonicAI/tonic_validate?style=social" width=100/></a> |
 
 
@@ -197,6 +197,7 @@ If you want to contribute to this list, then please make a Pull request
 | [Langfuse](https://langfuse.com/) | <a href=https://github.com/langfuse/langfuse><img src="https://img.shields.io/github/stars/langfuse/langfuse?style=social" width=100/></a> |
 | [langtrace](https://www.langtrace.ai/) | <a href=https://github.com/Scale3-Labs/langtrace><img src="https://img.shields.io/github/stars/Scale3-Labs/langtrace?style=social" width=100/></a> |
 | [traceloop](https://www.traceloop.com/) | <a href=https://github.com/traceloop/openllmetry><img src="https://img.shields.io/github/stars/traceloop/openllmetry?style=social" width=100/></a> |
+| [trulens](https://www.trulens.org/) | <a href=https://github.com/truera/trulens><img src="https://img.shields.io/github/stars/truera/trulens?style=social" width=100/></a> |
 
 
 ## Pre Training
