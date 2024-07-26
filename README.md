@@ -27,7 +27,7 @@ If you want to contribute to this list, please make a Pull request
 - [Structured Generation](#structured-generation)
 - [Vector DB](#vector-db)
 - [Voice Agent](#voice-agent)
-
+- [Infrastructure Management](#infrastructure-management)
 
 
 ## AI Gateway
@@ -315,3 +315,8 @@ If you want to contribute to this list, please make a Pull request
 | [vocode](https://www.vocode.dev/) | <a href=https://github.com/vocodedev/vocode-python><img src="https://img.shields.io/github/stars/vocodedev/vocode-python?style=social" width=100/></a> |
 | [bolna](https://www.bolna.dev/) | <a href=https://github.com/bolna-ai/bolna><img src="https://img.shields.io/github/stars/bolna-ai/bolna?style=social" width=100/></a> |
 
+## Infrastructure Management
+
+| Name (site) | Github |
+|------------|------------|
+| [simpliml](https://simpliml.com/) | <a href=https://github.com/Quarkal-AI/simpliml><img src="https://img.shields.io/github/stars/Quarkal-AI/simpliml?style=social" width=100/></a> |
