@@ -82,7 +82,7 @@ If you want to contribute to this list, please make a Pull request
 | [trulens](https://www.trulens.org/) | <a href=https://github.com/truera/trulens><img src="https://img.shields.io/github/stars/truera/trulens?style=social" width=100/></a> |
 | [tonic-validate](https://docs.tonic.ai/validate) | <a href=https://github.com/TonicAI/tonic_validate><img src="https://img.shields.io/github/stars/TonicAI/tonic_validate?style=social" width=100/></a> |
 | [LangEvals](https://github.com/langwatch/langevals) | <a href=https://github.com/langwatch/langevals><img src="https://img.shields.io/github/stars/langwatch/langevals?style=social" width=100/></a> |
-
+| [Poyro](https://github.com/poyro/poyro) | <a href=https://github.com/poyro/poyro><img src="https://img.shields.io/github/stars/poyro/poyro?style=social" width=100/></a> |
 
 ## Fine Tuning
 
