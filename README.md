@@ -106,6 +106,7 @@ If you want to contribute to this list, please make a Pull request
 | [NPI AI](https://www.npi.ai/) | <a href=https://github.com/npi-ai/npi><img src="https://img.shields.io/github/stars/npi-ai/npi?style=social" width=100/></a> |
 | [empower](https://www.empower.dev/) | <a href=https://github.com/empower-ai/empower-functions><img src="https://img.shields.io/github/stars/empower-ai/empower-functions?style=social" width=100/></a> |
 | [Composio](https://docs.composio.dev/introduction/intro/overview) | <a href=https://github.com/ComposioDev/composio><img src="https://img.shields.io/github/stars/ComposioDev/composio?style=social" width=100/></a> |
+| [gorilla](https://gorilla.cs.berkeley.edu/) | <a href=https://github.com/ShishirPatil/gorilla><img src="https://img.shields.io/github/stars/ShishirPatil/gorilla?style=social" width=100/></a> |
 
 
 ## Graph RAG
