@@ -278,6 +278,7 @@ If you want to contribute to this list, please make a Pull request
 | [indexify](https://getindexify.ai/) | <a href=https://github.com/tensorlakeai/indexify><img src="https://img.shields.io/github/stars/tensorlakeai/indexify?style=social" width=100/></a> |
 | [firecrawl](https://www.firecrawl.dev/) | <a href=https://github.com/mendableai/firecrawl><img src="https://img.shields.io/github/stars/mendableai/firecrawl?style=social" width=100/></a> |
 | [Scrapegraph-ai](https://scrapegraphai.com/) | <a href=https://github.com/ScrapeGraphAI/Scrapegraph-ai><img src="https://img.shields.io/github/stars/ScrapeGraphAI/Scrapegraph-ai?style=social" width=100/></a> |
+| [extractous](https://github.com/yobix-ai/extractous) | <a href=[https://github.com/ScrapeGraphAI/Scrapegraph-ai](https://github.com/yobix-ai/extractous)><img src="https://img.shields.io/github/stars/yobix-ai/extractous?style=social" width=100/></a> |
 
 
 ## Structured Generation
