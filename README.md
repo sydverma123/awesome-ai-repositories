@@ -308,6 +308,7 @@ If you want to contribute to this list, please make a Pull request
 | [nucliaDB](https://docs.nuclia.dev/docs/) | <a href=https://github.com/nuclia/nucliadb><img src="https://img.shields.io/github/stars/nuclia/nucliadb?style=social" width=100/></a> |
 | [oasysdb](https://docs.oasysdb.com/) | <a href=https://github.com/oasysai/oasysdb><img src="https://img.shields.io/github/stars/oasysai/oasysdb?style=social" width=100/></a> |
 | [lantern](https://lantern.dev/) | <a href=https://github.com/lanterndata/lantern><img src="https://img.shields.io/github/stars/lanterndata/lantern?style=social" width=100/></a> |
+| [vespa](https://vespa.ai/) | <a href=https://github.com/vespa-engine/vespa><img src="https://img.shields.io/github/stars/vespa-engine/vespa?style=social" width=100/></a> |
 
 ## Voice Agent
 
