@@ -39,6 +39,7 @@ If you want to contribute to this list, please make a Pull request
 | [Portkey](https://portkey.ai/) | <a href=https://github.com/Portkey-AI/gateway><img src="https://img.shields.io/github/stars/Portkey-AI/gateway?style=social" width=100/></a> |
 | [RouteLLM](https://lmsys.org/projects/) | <a href=https://github.com/lm-sys/RouteLLM><img src="https://img.shields.io/github/stars/lm-sys/RouteLLM?style=social" width=100/></a> |
 | [GPTRouter](https://gpt-router.writesonic.com/) | <a href=https://github.com/Writesonic/GPTRouter><img src="https://img.shields.io/github/stars/Writesonic/GPTRouter?style=social" width=100/></a> |
+| [tensorzero](https://www.tensorzero.com/) | <a href=https://github.com/tensorzero/tensorzero><img src="https://img.shields.io/github/stars/tensorzero/tensorzero?style=social" width=100/></a> |
 | [missing studio](https://www.missing.studio/) | <a href=https://github.com/missingstudio/gateway><img src="https://img.shields.io/github/stars/missingstudio/gateway?style=social" width=100/></a> |
 
 ## AI Workload Manager
