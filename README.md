@@ -1,3 +1,5 @@
+Stopped maintaining as there are many many AI repos coming out, hard to keep a track!
+
 ## AI Infra Repositories
 
 A curated list of open source repositories for AI Engineers
