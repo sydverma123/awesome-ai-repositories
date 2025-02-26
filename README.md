@@ -26,7 +26,6 @@ If you want to contribute to this list, please make a Pull request
 - [Structured Extraction](#structured-extraction)
 - [Structured Generation](#structured-generation)
 - [Vector DB](#vector-db)
-- [Voice Agent](#voice-agent)
 
 
 
@@ -107,7 +106,6 @@ If you want to contribute to this list, please make a Pull request
 | [NPI AI](https://www.npi.ai/) | <a href=https://github.com/npi-ai/npi><img src="https://img.shields.io/github/stars/npi-ai/npi?style=social" width=100/></a> |
 | [empower](https://www.empower.dev/) | <a href=https://github.com/empower-ai/empower-functions><img src="https://img.shields.io/github/stars/empower-ai/empower-functions?style=social" width=100/></a> |
 | [Composio](https://docs.composio.dev/introduction/intro/overview) | <a href=https://github.com/ComposioDev/composio><img src="https://img.shields.io/github/stars/ComposioDev/composio?style=social" width=100/></a> |
-| [gorilla](https://gorilla.cs.berkeley.edu/) | <a href=https://github.com/ShishirPatil/gorilla><img src="https://img.shields.io/github/stars/ShishirPatil/gorilla?style=social" width=100/></a> |
 
 
 ## Graph RAG
@@ -310,11 +308,3 @@ If you want to contribute to this list, please make a Pull request
 | [oasysdb](https://docs.oasysdb.com/) | <a href=https://github.com/oasysai/oasysdb><img src="https://img.shields.io/github/stars/oasysai/oasysdb?style=social" width=100/></a> |
 | [lantern](https://lantern.dev/) | <a href=https://github.com/lanterndata/lantern><img src="https://img.shields.io/github/stars/lanterndata/lantern?style=social" width=100/></a> |
 | [vespa](https://vespa.ai/) | <a href=https://github.com/vespa-engine/vespa><img src="https://img.shields.io/github/stars/vespa-engine/vespa?style=social" width=100/></a> |
-
-## Voice Agent
-
-| Name (site) | Github |
-|------------|------------|
-| [vocode](https://www.vocode.dev/) | <a href=https://github.com/vocodedev/vocode-python><img src="https://img.shields.io/github/stars/vocodedev/vocode-python?style=social" width=100/></a> |
-| [bolna](https://www.bolna.dev/) | <a href=https://github.com/bolna-ai/bolna><img src="https://img.shields.io/github/stars/bolna-ai/bolna?style=social" width=100/></a> |
-
